@@ -27,6 +27,6 @@ npm install
 
 # 源代碼
 
-源代碼作者 : [saiteja-madha](https://github.com/saiteja-madha)
-源代碼 : [discord-js-bot](https://github.com/saiteja-madha/discord-js-bot)
+源代碼作者 : [saiteja-madha](https://github.com/saiteja-madha) <br>
+源代碼 : [discord-js-bot](https://github.com/saiteja-madha/discord-js-bot) <br>
 翻譯 : [Tira-tw](https://github.com/Tira-tw)
